@@ -9,6 +9,7 @@
       "target": "ES2019"
     },
     "files": [
+      "w3.ts",
       "wallet.ts"
     ]
     }
